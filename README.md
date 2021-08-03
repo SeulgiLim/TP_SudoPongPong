@@ -6,6 +6,7 @@
 
 ---
 
+
 ## **[ About ]**
 
 "수돗물 안심하고 사용하시나요?"
@@ -18,18 +19,23 @@
 - 수도 관련 문제에 대한 예방, 해결 방법 제공
 - 수질검사요청, 수도요금조회 서비스 연결 제공
 
+
 ---
+
 
 ## **[ Preview ]**
 
 ![image](https://user-images.githubusercontent.com/71672106/127963285-f5a39eba-1159-4519-ae1d-59bb15de34a3.png)
 
+
 ---
+
 
 ## **[ Develop Environment ]**
 
 - Language : Kotlin
 - Android Depolyment Target : Android 6.0(Mashmallow
+
 
 ---
 
@@ -59,8 +65,6 @@
 - 위치 기반 수질 정보를 제공하는 Home 화면 구현
 - 지도 구현
 - 정보 (수도관련 팁, 수질검사 요청, 수도요금조회) 구현
-
-      
 
 ---
 
