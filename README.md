@@ -22,7 +22,7 @@
 
 ## **[ Preview ]**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cff3516b-ea40-4ca0-bc01-8c23762c24b8/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cff3516b-ea40-4ca0-bc01-8c23762c24b8/Untitled.png)
+![image](https://user-images.githubusercontent.com/71672106/127963285-f5a39eba-1159-4519-ae1d-59bb15de34a3.png)
 
 ---
 
