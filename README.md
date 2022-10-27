@@ -44,7 +44,7 @@
 1. Server
 - Firebase
 - Realtime Database
-1. Layout
+2. Layout
 - LinearLayout
 - [ViewPager2](https://developer.android.com/jetpack/androidx/releases/viewpager2?hl=ko)
 
